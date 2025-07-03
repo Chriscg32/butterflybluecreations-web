@@ -1,0 +1,25 @@
+{
+  "name": "butterflybluecreations",
+  "version": "1.0.0",
+  "description": "Built by one. Blessed for many. Guided by grace. Empowered by AI.",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test",
+    "install:frontend": "cd frontend && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/butterflybluecreations.git"
+  },
+  "keywords": [
+    "saas",
+    "ai",
+    "faith-driven",
+    "react",
+    "typescript"
+  ],
+  "author": "ButterflyBlue Creations",
+  "license": "PROPRIETARY"
+}
